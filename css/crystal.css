@@ -1,0 +1,47 @@
+body{
+    font-size: 18px;
+
+}
+#game{
+    background-color: blueviolet;
+    margin:2% 45% 5% 2%;
+
+
+
+}
+/*.board{
+    background-color: blueviolet;
+}*/
+h1{
+    text-align: center;
+    background-color: brown;
+    font-weight: bold;
+    
+}
+#crystal1{
+   float: left;
+   clear: left;
+;
+}
+#crystal2{
+    float: left;
+    
+ }
+ #crystal3{
+    float: right;
+    
+ }
+ #crystal4{
+    float:right;
+    
+ }
+ ._crysts{
+     clear:left;
+     margin: 10%;
+ }
+ 
+ 
+ .board{
+     float: left;
+     clear:left;
+ }
